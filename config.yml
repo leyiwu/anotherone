@@ -7,7 +7,7 @@ params:
     DateFormat: "Last updated January 2, 2006"
     profileMode:
         enabled: true
-        title: William Wu # optional default will be site title
+        title: William Wu #optional default will be site title
         subtitle: "Computer Science @ UofT | Amazon Future Engineer Scholar " 
         
         buttons:
